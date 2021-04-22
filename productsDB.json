@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "burger",
+      "price": 50,
+      "image": "https://placeimg.com/500/500/any"
+    },
+    {
+      "id": 2,
+      "name": "pizza",
+      "price": 60,
+      "image": "https://placeimg.com/500/500/any"
+    },
+    {
+      "id": 3,
+      "name": "salad",
+      "price": 40,
+      "image": "https://placeimg.com/500/500/any"
+    },
+    {
+      "id": 4,
+      "name": "chicken",
+      "price": 50,
+      "image": "https://placeimg.com/500/500/any"
+    },
+    {
+      "id": 5,
+      "name": "pasta",
+      "price": 60,
+      "image": "https://placeimg.com/500/500/any"
+    },
+    {
+      "id": 6,
+      "name": "fries",
+      "price": 30,
+      "image": "https://placeimg.com/500/500/any"
+    }
+  ]
+}
