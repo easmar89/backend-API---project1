@@ -11,7 +11,7 @@
 
 &nbsp;
 
-## Technogologies used
+## Technologies used
 
 -   Node.js
 -   Express
